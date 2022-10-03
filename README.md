@@ -1,6 +1,6 @@
 ### js-products-practice
 ### java script only
-This is small project to help you practicing on DOM using java script only 
+ This is small project to help you practicing on DOM using java script only 
 
 ##DOM [CSS] 
 -style 
