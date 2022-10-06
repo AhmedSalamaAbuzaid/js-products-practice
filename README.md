@@ -23,8 +23,8 @@ class list
 --remove
 
 ##DOM [Traversing];
-nextsibling
-previousSibling
+--nextsibling
+--previousSibling
 nextElementsibling
 previousElementsibling
 parent element
