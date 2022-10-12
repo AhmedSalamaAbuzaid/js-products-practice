@@ -25,6 +25,6 @@ class list
 ##DOM [Traversing];
 --nextsibling
 --previousSibling
-nextElementsibling
+--nextElementsibling
 previousElementsibling
 parent element
