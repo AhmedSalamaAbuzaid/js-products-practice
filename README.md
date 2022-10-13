@@ -17,7 +17,9 @@ class list
 
 ##DOM [How TO Deal with Elements]
 --before [Eement || string]
+
 --after [Eement || string]
+
 --append [Eement || string]
 --prepend [Eement || string]
 --remove
