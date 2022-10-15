@@ -3,11 +3,14 @@
  This is small project to help you practicing on DOM using java script only 
 
 ##DOM [CSS] 
+
 -style 
+
 -cssText
 
 ##DOM [class list]
 class list
+
 --length
 --contains
 --items (index)
@@ -21,6 +24,8 @@ class list
 --after [Eement || string]
 
 --append [Eement || string]
+
+
 --prepend [Eement || string]
 --remove
 
