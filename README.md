@@ -13,7 +13,9 @@
 class list
 
 --length
+
 --contains
+
 --items (index)
 --add 
 --remove
