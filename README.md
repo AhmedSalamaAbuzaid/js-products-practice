@@ -21,6 +21,7 @@ class list
 --add 
 
 --remove
+
 --toggle
 
 ##DOM [How TO Deal with Elements]
