@@ -33,11 +33,12 @@ class list
 
 --append [Eement || string]
 
-
 --prepend [Eement || string]
+
 --remove
 
 ##DOM [Traversing];
+
 --nextsibling
 --previousSibling
 --nextElementsibling
