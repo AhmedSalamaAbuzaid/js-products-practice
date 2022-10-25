@@ -40,6 +40,7 @@ class list
 ##DOM [Traversing];
 
 --nextsibling
+
 --previousSibling
 --nextElementsibling
 --previousElementsibling
